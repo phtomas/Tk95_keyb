@@ -1,0 +1,5 @@
+1- cortar trilha D22 para D3, conector 8-6 e 1 de SW5
+2- levantar Emissor de Q1, K de D24 e D20
+3- conectar K de D22 aos K de D20, D24, Emissor de Q1 e conector de 8-6
+4- conectar 1 de SW5 a conector 8-6
+5- conectar K de D28 a K de D3
